@@ -9,7 +9,9 @@ on extracted MFCC features.
 Scikit-learn
 
 Advantages:
+
 ● Various tools for data preprocessing and model evaluation.
+
 ● Simplifies the implementation of neural networks using MLPClassifier.
 
 Disadvantages:
